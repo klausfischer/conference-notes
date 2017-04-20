@@ -2,6 +2,7 @@
 
 ## JavaScript is a buffet, not the enemy - [Chris Heilmann](https://twitter.com/codepo8)
 
+- [Video & Blog article](https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/)
 - [Slides](http://www.slideshare.net/cheilmann/javascript-is-a-buffet-scriptconf-2017-keynote)
 - Use the right tools for the right job (avoid HTML markup in JS)
 - Analogy to buffets (only take what you can eat)
