@@ -1,4 +1,4 @@
-# [Scriptconf '17](https://scriptconf.org/)
+# [Script '17](https://scriptconf.org/)
 
 ## JavaScript is a buffet, not the enemy - [Chris Heilmann](https://twitter.com/codepo8)
 
