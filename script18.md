@@ -6,7 +6,7 @@
 - Get over the [hype cycle](https://en.wikipedia.org/wiki/Hype_cycle) without slipping into depression / burnout
 - Evan started in his spare time developing Vue but then decided to quit Google for working full time
 
-### Tips for open source maintainers for 
+### Tips for open source maintainers 
 - Keep a healthy work life balance
 - Turn off notifications, create a schedule with task-blocks (issues, mails, ...)
 - Family first!
